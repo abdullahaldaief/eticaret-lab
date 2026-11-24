@@ -1,5 +1,10 @@
 {
   "expo": {
+    "scheme": "eticaretlab",
+    "plugins": [
+      "expo-router",
+      "expo-status-bar"
+    ],
     "name": "eticaret-lab",
     "slug": "eticaret-lab",
     "version": "1.0.0",
